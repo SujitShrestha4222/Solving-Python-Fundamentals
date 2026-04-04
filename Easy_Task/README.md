@@ -6,4 +6,5 @@
 | Task No. | Question file name | Answer file name | Difficulty level | Completed Date | Status |
 |------|----------|--------|------------|------|--------|
 | 1 | [Task_1.md](./questions/Task_1.md) | [Task_1.py](./answers/Task_1.py) | 2/10 | Apr 3,2026 | ✅ |
+| 2 | [Task_2.md](./questions/Task_2.md) | [Task_2.py](./answers/Task_2.py) | 2/10 | Apr 4,2026 | ✅ |
 ---
