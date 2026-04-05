@@ -2,6 +2,6 @@
 ## 📊 My Progress:
 | Level | Status | Solved Count |
 |-------|--------|-------|
-| 🟢 Easy | ✅ | 2 |
+| 🟢 Easy | ✅ | 3 |
 | 🟡 Medium | ⏳ | 0 |
 | 🔴 Hard | ⏳ | 0 |
