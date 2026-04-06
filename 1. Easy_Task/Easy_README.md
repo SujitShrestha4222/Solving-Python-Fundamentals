@@ -3,9 +3,9 @@
 #### Folder name: [Easy_Task](/Easy_Task)
 ---
 ## Progress Table:
-| Task No. | Question File Name | Answer File Name | Difficulty Level | Completed Date | Status |
+| Task No. | Question Name | Answer File Name | Difficulty Level | Completed Date | Status |
 |------|----------|--------|------------|------|--------|
-| 1 | [Task_1.md](./questions/Task_1.md) | [Task_1.py](./answers/Task_1.py) | 2/10 | Apr 3,2026 | ✅ |
-| 2 | [Task_2.md](./questions/Task_2.md) | [Task_2.py](./answers/Task_2.py) | 2/10 | Apr 4,2026 | ✅ |
-| 3 | [Task_3.md](./questions/Task_3.md) | [Task_3.py](./answers/Task_3.py) | 1/10 | Apr 5,2026 | ✅ |
+| 1 | [Task_1](./Easy_Questions.md) | [Task_1.py](./answers/Task_1.py) | 2/10 | Apr 3,2026 | ✅ |
+| 2 | [Task_2](./Easy_Questions.md) | [Task_2.py](./answers/Task_2.py) | 2/10 | Apr 4,2026 | ✅ |
+| 3 | [Task_3](./Easy_Questions.md) | [Task_3.py](./answers/Task_3.py) | 1/10 | Apr 5,2026 | ✅ |
 ---
