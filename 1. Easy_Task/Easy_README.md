@@ -1,6 +1,6 @@
 # Easy Level Problems ⭐
 ---
-#### Folder name: [Easy_Task](/Easy_Task)
+#### Folder name: [Easy_Task](/1.%20Easy_Task)
 ---
 ## Progress Table:
 | Task No. | Question Name | Answer File Name | Difficulty Level | Completed Date | Status |

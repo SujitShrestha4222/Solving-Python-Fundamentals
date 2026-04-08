@@ -1,6 +1,6 @@
 # Medium Level Problems ⭐⭐
 ---
-#### Folder name: [Medium_Task](/Medium_Task)
+#### Folder name: [Medium_Task](/2.%20Medium_Task)
 ---
 ## Progress Table:
 | Task No. | Question Name | Answer File Name | Difficulty Level | Completed Date | Status |
