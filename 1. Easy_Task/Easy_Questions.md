@@ -2,7 +2,7 @@ Task-1:
 Double all even numbers in the list.
 lst = [1, 2, 3, 4, 5]
 -------------------------------------------------------------------------------------------------------------
-Click Here to see Answer: [Task_1.py](/Easy_Task/Answers/Task_1.py)
+Click Here to see Answer: [Task_1.py](/1.%20Easy_Task/Easy_Answers/Task_1.py)
 -------------------------------------------------------------------------------------------------------------
 
 
@@ -13,7 +13,7 @@ Task-2:
 Difference between sum of even and odd numbers.
 lst = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 -------------------------------------------------------------------------------------------------------------
-Click Here to see Answer: [Task_2.py](/Easy_Task/Answers/Task_2.py)
+Click Here to see Answer: [Task_2.py](/1.%20Easy_Task/Easy_Answers/Task_2.py)
 -------------------------------------------------------------------------------------------------------------
 
 
@@ -23,5 +23,5 @@ Click Here to see Answer: [Task_2.py](/Easy_Task/Answers/Task_2.py)
 Task-3: 
 Convert "2.5" to integer value.
 -------------------------------------------------------------------------------------------------------------
-Click Here to see Answer: [Task_3.py](/Easy_Task/Answers/Task_3.py)
+Click Here to see Answer: [Task_3.py](/1.%20Easy_Task/Easy_Answers/Task_3.py)
 -------------------------------------------------------------------------------------------------------------
