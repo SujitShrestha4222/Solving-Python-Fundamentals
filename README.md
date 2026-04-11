@@ -3,5 +3,5 @@
 | Level | Status | Solved Qns Count |
 |-------|--------|-------|
 | 🟢 Easy | ✅ | 4 |
-| 🟡 Medium | ✅ | 1 |
+| 🟡 Medium | ✅ | 2 |
 | 🔴 Hard | ⏳ | 0 |
