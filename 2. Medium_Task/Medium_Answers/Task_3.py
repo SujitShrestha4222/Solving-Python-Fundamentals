@@ -1,6 +1,6 @@
 num = int (input ("Enter your number you want the reverse of:"))
 
-original_num = num
+original_num = num         # we need to store our original num got from user as needed later on to compare
 
 rev = 0
 
