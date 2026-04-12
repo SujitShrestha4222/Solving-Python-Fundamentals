@@ -1,4 +1,4 @@
-num = int (input ("Enter you number you want the reverse of:"))
+num = int (input ("Enter your number you want the reverse of:"))
 
 rev = 0
 
