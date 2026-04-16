@@ -64,6 +64,14 @@ Click Here to see Answer: [Task_5.py](/2.%20Medium_Task/Medium_Answers/Task_5.py
 
 Task-6: 
 Check whether a number is Perfect.
+    A perfect number is a positive integer that is equal to the sum of its proper divisors (all divisors excluding the number itself).
+    Simple idea:You take all numbers that divide a number (except itself), add them, and if the sum 
+                equals the original number → it's perfect.
+                Few perfect numbers:6, 28, 496, 8128
+    Example:28
+        Divisors: 1, 2, 4, 7, 14 so,
+        Sum: 1 + 2 + 4 + 7 + 14 = 28
+        👉 So, 28 is also a perfect number
 -------------------------------------------------------------------------------------------------------------
 Click Here to see Answer: [Task_6.py](/2.%20Medium_Task/Medium_Answers/Task_6.py)
 -------------------------------------------------------------------------------------------------------------
