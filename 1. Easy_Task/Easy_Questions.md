@@ -35,3 +35,14 @@ Keep asking the user to enter a positive number until the user enters a valid po
 -------------------------------------------------------------------------------------------------------------
 Click Here to see Answer: [Task_4.py](/1.%20Easy_Task/Easy_Answers/Task_4.py)
 -------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+Task-5: 
+Reverse the string and pick every second character.
+st = "abcdefghijkl"
+-------------------------------------------------------------------------------------------------------------
+Click Here to see Answer: [Task_5.py](/1.%20Easy_Task/Easy_Answers/Task_5.py)
+-------------------------------------------------------------------------------------------------------------
