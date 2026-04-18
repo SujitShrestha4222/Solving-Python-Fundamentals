@@ -54,3 +54,6 @@ Click Here to see Answer: [Task_5.py](/1.%20Easy_Task/Easy_Answers/Task_5.py)
 Task-6: 
 Count vowels and consonants in the string.
 st = "python is easy"
+-------------------------------------------------------------------------------------------------------------
+Click Here to see Answer: [Task_6.py](/1.%20Easy_Task/Easy_Answers/Task_6.py)
+-------------------------------------------------------------------------------------------------------------
