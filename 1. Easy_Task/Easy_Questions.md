@@ -57,3 +57,22 @@ st = "python is easy"
 -------------------------------------------------------------------------------------------------------------
 Click Here to see Answer: [Task_6.py](/1.%20Easy_Task/Easy_Answers/Task_6.py)
 -------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+Task-7:
+Consider the following Python code:
+```
+nums = [1, 2, 3, 4, 5]
+for num in nums:
+    if num == 3:
+        break
+else:
+    print("Loop completed!!!")
+```
+What will be the output of this program? Explain your answer.
+-------------------------------------------------------------------------------------------------------------
+Click Here to see Answer: [Task_7.py](/1.%20Easy_Task/Easy_Answers/Task_7.py)
+-------------------------------------------------------------------------------------------------------------
