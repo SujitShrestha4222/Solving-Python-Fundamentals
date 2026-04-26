@@ -76,3 +76,24 @@ What will be the output of this program? Explain your answer.
 -------------------------------------------------------------------------------------------------------------
 Click Here to see Answer: [Task_7.py](/1.%20Easy_Task/Easy_Answers/Task_7.py)
 -------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+Task-8:
+You are given a dictionary containing student details:
+student = {
+    "name": "Sujit",
+    "age": 22,
+    "course": "BBS",
+    "skills": ["Python", "SQL"]
+}
+
+👉 Write a Python program to:
+Extract the following keys:
+- "name"
+- "email" (this key does NOT exist)
+- "skills"
+Print the values without getting any error, even if the key is missing.
+If a key does not exist, print "Not Available" instead.
