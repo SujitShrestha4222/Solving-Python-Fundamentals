@@ -12,4 +12,5 @@
 | 5 | [Task_5](/1.%20Easy_Task/Easy_Questions.md) | [Task_5.py](/1.%20Easy_Task/Easy_Answers/Task_5.py) | 3/10 | Apr 17,2026 | ✅ |
 | 6 | [Task_6](/1.%20Easy_Task/Easy_Questions.md) | [Task_6.py](/1.%20Easy_Task/Easy_Answers/Task_6.py) | 2/10 | Apr 18,2026 | ✅ |
 | 7 | [Task_7](/1.%20Easy_Task/Easy_Questions.md) | [Task_7.py](/1.%20Easy_Task/Easy_Answers/Task_7.py) | 3/10 | Apr 21,2026 | ✅ |
+| 8 | [Task_8](/1.%20Easy_Task/Easy_Questions.md) | [Task_8.py](/1.%20Easy_Task/Easy_Answers/Task_8.py) | 1/10 | Apr 26,2026 | ✅ |
 ---
