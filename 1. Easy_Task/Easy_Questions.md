@@ -91,9 +91,10 @@ student = {
 }
 
 👉 Write a Python program to:
-Extract the following keys:
-- "name"
-- "email" (this key does NOT exist)
-- "skills"
+Print the value of "name"
+Print the value of "email" (this key does NOT exist, so handle it safely)
+Print the first skill from "skills" list
+
+Requirement:
 Print the values without getting any error, even if the key is missing.
 If a key does not exist, print "Not Available" instead.
