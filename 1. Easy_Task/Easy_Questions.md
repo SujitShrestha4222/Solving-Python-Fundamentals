@@ -98,3 +98,9 @@ Print the first skill from "skills" list
 Requirement:
 Print the values without getting any error, even if the key is missing.
 If a key does not exist, print "Not Available" instead.
+-------------------------------------------------------------------------------------------------------------
+Click Here to see Answer: [Task_8.py](/1.%20Easy_Task/Easy_Answers/Task_8.py)
+-------------------------------------------------------------------------------------------------------------
+
+
+
