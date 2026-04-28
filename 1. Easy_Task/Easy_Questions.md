@@ -104,3 +104,12 @@ Click Here to see Answer: [Task_8.py](/1.%20Easy_Task/Easy_Answers/Task_8.py)
 
 
 
+
+
+Task-9: 
+Replace odd numbers in the list with 0.
+lst = [1, 2, 3, 4, 5]
+-------------------------------------------------------------------------------------------------------------
+Click Here to see Answer: [Task_9.py](/1.%20Easy_Task/Easy_Answers/Task_9.py)
+-------------------------------------------------------------------------------------------------------------
+
