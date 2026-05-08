@@ -124,3 +124,19 @@ st = "a1b2c3d4"
 Click Here to see Answer: [Task_10.py](/1.%20Easy_Task/Easy_Answers/Task_10.py)
 -------------------------------------------------------------------------------------------------------------
 
+
+
+
+
+Task-11:
+Write a Function called "is_leap_year" that:
+- Takes a year as input.
+- Returns Ture if it's a leap year, otherwise False.
+
+NOTE: A year is a leap year if:
+- It's divisible by 4 and 
+- Not divisible by 100, unless it's also divisible by 400.
+-------------------------------------------------------------------------------------------------------------
+Click Here to see Answer: [Task_11.py](/1.%20Easy_Task/Easy_Answers/Task_11.py)
+-------------------------------------------------------------------------------------------------------------
+
