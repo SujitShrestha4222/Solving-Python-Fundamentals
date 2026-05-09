@@ -133,9 +133,16 @@ Write a Function called "is_leap_year" that:
 - Takes a year as input.
 - Returns Ture if it's a leap year, otherwise False.
 
-NOTE: A year is a leap year if:
-- It's divisible by 4 and 
-- Not divisible by 100, unless it's also divisible by 400.
+
+
+NOTE:
+Leap year (i.e. 366 days in a year)
+A leap year occurs every 4 years (i.e. if 2008 is leap year then ---> 2012, 2016, 2020 etc.)
+
+A year is a leap year if:
+- It's divisible by 4 (i.e. year % 4 == 0),
+- Not divisible by 100 (i.e. year % 100 != 0), 
+- It's also divisible by 400 (i.e. year % 400 == 0).
 -------------------------------------------------------------------------------------------------------------
 Click Here to see Answer: [Task_11.py](/1.%20Easy_Task/Easy_Answers/Task_11.py)
 -------------------------------------------------------------------------------------------------------------
