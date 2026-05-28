@@ -1,4 +1,4 @@
-# Solving Python Fundamental Problems🐍
+# Solving Python Problems🐍
 ## 📊 My Progress:
 | Level | Status | Solved Qns Count |
 |-------|--------|-------|
