@@ -2,6 +2,6 @@
 ## 📊 My Progress:
 | Level | Status | Solved Qns Count |
 |-------|--------|-------|
-| 🟢 Easy | ✅ | 11 |
+| 🟢 Easy | ✅ | 12 |
 | 🟡 Medium | ✅ | 6 |
 | 🔴 Hard | ✅ | 2 |
